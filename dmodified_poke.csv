@@ -1,0 +1,801 @@
+Name,HP
+Bulbasaur,45
+Ivysaur,60
+Venusaur,80
+VenusaurMega Venusaur,80
+Charmander,39
+Charmeleon,58
+Charizard,78
+CharizardMega Charizard X,78
+CharizardMega Charizard Y,78
+Squirtle,44
+Wartortle,59
+Blastoise,79
+BlastoiseMega Blastoise,79
+Caterpie,45
+Metapod,50
+Butterfree,60
+Weedle,40
+Kakuna,45
+Beedrill,65
+BeedrillMega Beedrill,65
+Pidgey,40
+Pidgeotto,63
+Pidgeot,83
+PidgeotMega Pidgeot,83
+Rattata,30
+Raticate,55
+Spearow,40
+Fearow,65
+Ekans,35
+Arbok,60
+Pikachu,35
+Raichu,60
+Sandshrew,50
+Sandslash,75
+Nidoran (Female),55
+Nidorina,70
+Nidoqueen,90
+Nidoran (Male),46
+Nidorino,61
+Nidoking,81
+Clefairy,70
+Clefable,95
+Vulpix,38
+Ninetales,73
+Jigglypuff,115
+Wigglytuff,140
+Zubat,40
+Golbat,75
+Oddish,45
+Gloom,60
+Vileplume,75
+Paras,35
+Parasect,60
+Venonat,60
+Venomoth,70
+Diglett,10
+Dugtrio,35
+Meowth,40
+Persian,65
+Psyduck,50
+Golduck,80
+Mankey,40
+Primeape,65
+Growlithe,55
+Arcanine,90
+Poliwag,40
+Poliwhirl,65
+Poliwrath,90
+Abra,25
+Kadabra,40
+Alakazam,55
+AlakazamMega Alakazam,55
+Machop,70
+Machoke,80
+Machamp,90
+Bellsprout,50
+Weepinbell,65
+Victreebel,80
+Tentacool,40
+Tentacruel,80
+Geodude,40
+Graveler,55
+Golem,80
+Ponyta,50
+Rapidash,65
+Slowpoke,90
+Slowbro,95
+SlowbroMega Slowbro,95
+Magnemite,25
+Magneton,50
+Farfetch'd,52
+Doduo,35
+Dodrio,60
+Seel,65
+Dewgong,90
+Grimer,80
+Muk,105
+Shellder,30
+Cloyster,50
+Gastly,30
+Haunter,45
+Gengar,60
+GengarMega Gengar,60
+Onix,35
+Drowzee,60
+Hypno,85
+Krabby,30
+Kingler,55
+Voltorb,40
+Electrode,60
+Exeggcute,60
+Exeggutor,95
+Cubone,50
+Marowak,60
+Hitmonlee,50
+Hitmonchan,50
+Lickitung,90
+Koffing,40
+Weezing,65
+Rhyhorn,80
+Rhydon,105
+Chansey,250
+Tangela,65
+Kangaskhan,105
+KangaskhanMega Kangaskhan,105
+Horsea,30
+Seadra,55
+Goldeen,45
+Seaking,80
+Staryu,30
+Starmie,60
+Mr. Mime,40
+Scyther,70
+Jynx,65
+Electabuzz,65
+Magmar,65
+Pinsir,65
+PinsirMega Pinsir,65
+Tauros,75
+Magikarp,20
+Gyarados,95
+GyaradosMega Gyarados,95
+Lapras,130
+Ditto,48
+Eevee,55
+Vaporeon,130
+Jolteon,65
+Flareon,65
+Porygon,65
+Omanyte,35
+Omastar,70
+Kabuto,30
+Kabutops,60
+Aerodactyl,80
+AerodactylMega Aerodactyl,80
+Snorlax,160
+Articuno,90
+Zapdos,90
+Moltres,90
+Dratini,41
+Dragonair,61
+Dragonite,91
+Mewtwo,106
+MewtwoMega Mewtwo X,106
+MewtwoMega Mewtwo Y,106
+Mew,100
+Chikorita,45
+Bayleef,60
+Meganium,80
+Cyndaquil,39
+Quilava,58
+Typhlosion,78
+Totodile,50
+Croconaw,65
+Feraligatr,85
+Sentret,35
+Furret,85
+Hoothoot,60
+Noctowl,100
+Ledyba,40
+Ledian,55
+Spinarak,40
+Ariados,70
+Crobat,85
+Chinchou,75
+Lanturn,125
+Pichu,20
+Cleffa,50
+Igglybuff,90
+Togepi,35
+Togetic,55
+Natu,40
+Xatu,65
+Mareep,55
+Flaaffy,70
+Ampharos,90
+AmpharosMega Ampharos,90
+Bellossom,75
+Marill,70
+Azumarill,100
+Sudowoodo,70
+Politoed,90
+Hoppip,35
+Skiploom,55
+Jumpluff,75
+Aipom,55
+Sunkern,30
+Sunflora,75
+Yanma,65
+Wooper,55
+Quagsire,95
+Espeon,65
+Umbreon,95
+Murkrow,60
+Slowking,95
+Misdreavus,60
+Unown,48
+Wobbuffet,190
+Girafarig,70
+Pineco,50
+Forretress,75
+Dunsparce,100
+Gligar,65
+Steelix,75
+SteelixMega Steelix,75
+Snubbull,60
+Granbull,90
+Qwilfish,65
+Scizor,70
+ScizorMega Scizor,70
+Shuckle,20
+Heracross,80
+HeracrossMega Heracross,80
+Sneasel,55
+Teddiursa,60
+Ursaring,90
+Slugma,40
+Magcargo,50
+Swinub,50
+Piloswine,100
+Corsola,55
+Remoraid,35
+Octillery,75
+Delibird,45
+Mantine,65
+Skarmory,65
+Houndour,45
+Houndoom,75
+HoundoomMega Houndoom,75
+Kingdra,75
+Phanpy,90
+Donphan,90
+Porygon2,85
+Stantler,73
+Smeargle,55
+Tyrogue,35
+Hitmontop,50
+Smoochum,45
+Elekid,45
+Magby,45
+Miltank,95
+Blissey,255
+Raikou,90
+Entei,115
+Suicune,100
+Larvitar,50
+Pupitar,70
+Tyranitar,100
+TyranitarMega Tyranitar,100
+Lugia,106
+Ho-oh,106
+Celebi,100
+Treecko,40
+Grovyle,50
+Sceptile,70
+SceptileMega Sceptile,70
+Torchic,45
+Combusken,60
+Blaziken,80
+BlazikenMega Blaziken,80
+Mudkip,50
+Marshtomp,70
+Swampert,100
+SwampertMega Swampert,100
+Poochyena,35
+Mightyena,70
+Zigzagoon,38
+Linoone,78
+Wurmple,45
+Silcoon,50
+Beautifly,60
+Cascoon,50
+Dustox,60
+Lotad,40
+Lombre,60
+Ludicolo,80
+Seedot,40
+Nuzleaf,70
+Shiftry,90
+Taillow,40
+Swellow,60
+Wingull,40
+Pelipper,60
+Ralts,28
+Kirlia,38
+Gardevoir,68
+GardevoirMega Gardevoir,68
+Surskit,40
+Masquerain,70
+Shroomish,60
+Breloom,60
+Slakoth,60
+Vigoroth,80
+Slaking,150
+Nincada,31
+Ninjask,61
+Shedinja,1
+Whismur,64
+Loudred,84
+Exploud,104
+Makuhita,72
+Hariyama,144
+Azurill,50
+Nosepass,30
+Skitty,50
+Delcatty,70
+Sableye,50
+SableyeMega Sableye,50
+Mawile,50
+MawileMega Mawile,50
+Aron,50
+Lairon,60
+Aggron,70
+AggronMega Aggron,70
+Meditite,30
+Medicham,60
+MedichamMega Medicham,60
+Electrike,40
+Manectric,70
+ManectricMega Manectric,70
+Plusle,60
+Minun,60
+Volbeat,65
+Illumise,65
+Roselia,50
+Gulpin,70
+Swalot,100
+Carvanha,45
+Sharpedo,70
+SharpedoMega Sharpedo,70
+Wailmer,130
+Wailord,170
+Numel,60
+Camerupt,70
+CameruptMega Camerupt,70
+Torkoal,70
+Spoink,60
+Grumpig,80
+Spinda,60
+Trapinch,45
+Vibrava,50
+Flygon,80
+Cacnea,50
+Cacturne,70
+Swablu,45
+Altaria,75
+AltariaMega Altaria,75
+Zangoose,73
+Seviper,73
+Lunatone,70
+Solrock,70
+Barboach,50
+Whiscash,110
+Corphish,43
+Crawdaunt,63
+Baltoy,40
+Claydol,60
+Lileep,66
+Cradily,86
+Anorith,45
+Armaldo,75
+Feebas,20
+Milotic,95
+Castform,70
+Kecleon,60
+Shuppet,44
+Banette,64
+BanetteMega Banette,64
+Duskull,20
+Dusclops,40
+Tropius,99
+Chimecho,65
+Absol,65
+AbsolMega Absol,65
+Wynaut,95
+Snorunt,50
+Glalie,80
+GlalieMega Glalie,80
+Spheal,70
+Sealeo,90
+Walrein,110
+Clamperl,35
+Huntail,55
+Gorebyss,55
+Relicanth,100
+Luvdisc,43
+Bagon,45
+Shelgon,65
+Salamence,95
+SalamenceMega Salamence,95
+Beldum,40
+Metang,60
+Metagross,80
+MetagrossMega Metagross,80
+Regirock,80
+Regice,80
+Registeel,80
+Latias,80
+LatiasMega Latias,80
+Latios,80
+LatiosMega Latios,80
+Kyogre,100
+KyogrePrimal Kyogre,100
+Groudon,100
+GroudonPrimal Groudon,100
+Rayquaza,105
+RayquazaMega Rayquaza,105
+Jirachi,100
+DeoxysNormal Forme,50
+DeoxysAttack Forme,50
+DeoxysDefense Forme,50
+DeoxysSpeed Forme,50
+Turtwig,55
+Grotle,75
+Torterra,95
+Chimchar,44
+Monferno,64
+Infernape,76
+Piplup,53
+Prinplup,64
+Empoleon,84
+Starly,40
+Staravia,55
+Staraptor,85
+Bidoof,59
+Bibarel,79
+Kricketot,37
+Kricketune,77
+Shinx,45
+Luxio,60
+Luxray,80
+Budew,40
+Roserade,60
+Cranidos,67
+Rampardos,97
+Shieldon,30
+Bastiodon,60
+Burmy,40
+WormadamPlant Cloak,60
+WormadamSandy Cloak,60
+WormadamTrash Cloak,60
+Mothim,70
+Combee,30
+Vespiquen,70
+Pachirisu,60
+Buizel,55
+Floatzel,85
+Cherubi,45
+Cherrim,70
+Shellos,76
+Gastrodon,111
+Ambipom,75
+Drifloon,90
+Drifblim,150
+Buneary,55
+Lopunny,65
+LopunnyMega Lopunny,65
+Mismagius,60
+Honchkrow,100
+Glameow,49
+Purugly,71
+Chingling,45
+Stunky,63
+Skuntank,103
+Bronzor,57
+Bronzong,67
+Bonsly,50
+Mime Jr.,20
+Happiny,100
+Chatot,76
+Spiritomb,50
+Gible,58
+Gabite,68
+Garchomp,108
+GarchompMega Garchomp,108
+Munchlax,135
+Riolu,40
+Lucario,70
+LucarioMega Lucario,70
+Hippopotas,68
+Hippowdon,108
+Skorupi,40
+Drapion,70
+Croagunk,48
+Toxicroak,83
+Carnivine,74
+Finneon,49
+Lumineon,69
+Mantyke,45
+Snover,60
+Abomasnow,90
+AbomasnowMega Abomasnow,90
+Weavile,70
+Magnezone,70
+Lickilicky,110
+Rhyperior,115
+Tangrowth,100
+Electivire,75
+Magmortar,75
+Togekiss,85
+Yanmega,86
+Leafeon,65
+Glaceon,65
+Gliscor,75
+Mamoswine,110
+Porygon-Z,85
+Gallade,68
+GalladeMega Gallade,68
+Probopass,60
+Dusknoir,45
+Froslass,70
+Rotom,50
+RotomHeat Rotom,50
+RotomWash Rotom,50
+RotomFrost Rotom,50
+RotomFan Rotom,50
+RotomMow Rotom,50
+Uxie,75
+Mesprit,80
+Azelf,75
+Dialga,100
+Palkia,90
+Heatran,91
+Regigigas,110
+GiratinaAltered Forme,150
+GiratinaOrigin Forme,150
+Cresselia,120
+Phione,80
+Manaphy,100
+Darkrai,70
+ShayminLand Forme,100
+ShayminSky Forme,100
+Arceus,120
+Victini,100
+Snivy,45
+Servine,60
+Serperior,75
+Tepig,65
+Pignite,90
+Emboar,110
+Oshawott,55
+Dewott,75
+Samurott,95
+Patrat,45
+Watchog,60
+Lillipup,45
+Herdier,65
+Stoutland,85
+Purrloin,41
+Liepard,64
+Pansage,50
+Simisage,75
+Pansear,50
+Simisear,75
+Panpour,50
+Simipour,75
+Munna,76
+Musharna,116
+Pidove,50
+Tranquill,62
+Unfezant,80
+Blitzle,45
+Zebstrika,75
+Roggenrola,55
+Boldore,70
+Gigalith,85
+Woobat,55
+Swoobat,67
+Drilbur,60
+Excadrill,110
+Audino,103
+AudinoMega Audino,103
+Timburr,75
+Gurdurr,85
+Conkeldurr,105
+Tympole,50
+Palpitoad,75
+Seismitoad,105
+Throh,120
+Sawk,75
+Sewaddle,45
+Swadloon,55
+Leavanny,75
+Venipede,30
+Whirlipede,40
+Scolipede,60
+Cottonee,40
+Whimsicott,60
+Petilil,45
+Lilligant,70
+Basculin,70
+Sandile,50
+Krokorok,60
+Krookodile,95
+Darumaka,70
+DarmanitanStandard Mode,105
+DarmanitanZen Mode,105
+Maractus,75
+Dwebble,50
+Crustle,70
+Scraggy,50
+Scrafty,65
+Sigilyph,72
+Yamask,38
+Cofagrigus,58
+Tirtouga,54
+Carracosta,74
+Archen,55
+Archeops,75
+Trubbish,50
+Garbodor,80
+Zorua,40
+Zoroark,60
+Minccino,55
+Cinccino,75
+Gothita,45
+Gothorita,60
+Gothitelle,70
+Solosis,45
+Duosion,65
+Reuniclus,110
+Ducklett,62
+Swanna,75
+Vanillite,36
+Vanillish,51
+Vanilluxe,71
+Deerling,60
+Sawsbuck,80
+Emolga,55
+Karrablast,50
+Escavalier,70
+Foongus,69
+Amoonguss,114
+Frillish,55
+Jellicent,100
+Alomomola,165
+Joltik,50
+Galvantula,70
+Ferroseed,44
+Ferrothorn,74
+Klink,40
+Klang,60
+Klinklang,60
+Tynamo,35
+Eelektrik,65
+Eelektross,85
+Elgyem,55
+Beheeyem,75
+Litwick,50
+Lampent,60
+Chandelure,60
+Axew,46
+Fraxure,66
+Haxorus,76
+Cubchoo,55
+Beartic,95
+Cryogonal,70
+Shelmet,50
+Accelgor,80
+Stunfisk,109
+Mienfoo,45
+Mienshao,65
+Druddigon,77
+Golett,59
+Golurk,89
+Pawniard,45
+Bisharp,65
+Bouffalant,95
+Rufflet,70
+Braviary,100
+Vullaby,70
+Mandibuzz,110
+Heatmor,85
+Durant,58
+Deino,52
+Zweilous,72
+Hydreigon,92
+Larvesta,55
+Volcarona,85
+Cobalion,91
+Terrakion,91
+Virizion,91
+TornadusIncarnate Forme,79
+TornadusTherian Forme,79
+ThundurusIncarnate Forme,79
+ThundurusTherian Forme,79
+Reshiram,100
+Zekrom,100
+LandorusIncarnate Forme,89
+LandorusTherian Forme,89
+Kyurem,125
+KyuremBlack Kyurem,125
+KyuremWhite Kyurem,125
+KeldeoOrdinary Forme,91
+KeldeoResolute Forme,91
+MeloettaAria Forme,100
+MeloettaPirouette Forme,100
+Genesect,71
+Chespin,56
+Quilladin,61
+Chesnaught,88
+Fennekin,40
+Braixen,59
+Delphox,75
+Froakie,41
+Frogadier,54
+Greninja,72
+Bunnelby,38
+Diggersby,85
+Fletchling,45
+Fletchinder,62
+Talonflame,78
+Scatterbug,38
+Spewpa,45
+Vivillon,80
+Litleo,62
+Pyroar,86
+Flabébé,44
+Floette,54
+Florges,78
+Skiddo,66
+Gogoat,123
+Pancham,67
+Pangoro,95
+Furfrou,75
+Espurr,62
+MeowsticMale,74
+MeowsticFemale,74
+Honedge,45
+Doublade,59
+AegislashBlade Forme,60
+AegislashShield Forme,60
+Spritzee,78
+Aromatisse,101
+Swirlix,62
+Slurpuff,82
+Inkay,53
+Malamar,86
+Binacle,42
+Barbaracle,72
+Skrelp,50
+Dragalge,65
+Clauncher,50
+Clawitzer,71
+Helioptile,44
+Heliolisk,62
+Tyrunt,58
+Tyrantrum,82
+Amaura,77
+Aurorus,123
+Sylveon,95
+Hawlucha,78
+Dedenne,67
+Carbink,50
+Goomy,45
+Sliggoo,68
+Goodra,90
+Klefki,57
+Phantump,43
+Trevenant,85
+PumpkabooAverage Size,49
+PumpkabooSmall Size,44
+PumpkabooLarge Size,54
+PumpkabooSuper Size,59
+GourgeistAverage Size,65
+GourgeistSmall Size,55
+GourgeistLarge Size,75
+GourgeistSuper Size,85
+Bergmite,55
+Avalugg,95
+Noibat,40
+Noivern,85
+Xerneas,126
+Yveltal,126
+Zygarde50% Forme,108
+Diancie,50
+DiancieMega Diancie,50
+HoopaHoopa Confined,80
+HoopaHoopa Unbound,80
+Volcanion,80
